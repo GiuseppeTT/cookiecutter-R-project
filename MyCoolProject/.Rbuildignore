@@ -6,3 +6,4 @@
 ^makefile$
 ^MyCoolProject\.Rproj$
 ^output$
+^Rmd$
