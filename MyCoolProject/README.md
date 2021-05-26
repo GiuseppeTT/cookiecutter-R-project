@@ -1,6 +1,7 @@
 # MyCoolProject
 
 <!-- badges: start -->
+[![R-CMD-check](https://github.com/GiuseppeTT/cookiecutter-R-project/workflows/R-CMD-check/badge.svg)](https://github.com/GiuseppeTT/cookiecutter-R-project/actions)
 <!-- badges: end -->
 
 The goal of MyCoolProject is to ...
