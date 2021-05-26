@@ -14,7 +14,9 @@ Imports:
     rlang (>= 0.1.2)
 Suggests:
     devtools,
-    testthat (>= 3.0.0)
+    lintr,
+    testthat (>= 3.0.0),
+    usethis
 Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
