@@ -1,4 +1,5 @@
 ^\.github$
+^\.lintr$
 ^\.Rproj\.user$
 ^LICENSE\.md$
 ^MyCoolProject\.Rproj$
