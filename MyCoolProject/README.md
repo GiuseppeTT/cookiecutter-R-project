@@ -1,24 +1,38 @@
-# MyCoolProject
-
-<!-- badges: start -->
-[![R-CMD-check](https://github.com/GiuseppeTT/cookiecutter-R-project/workflows/R-CMD-check/badge.svg)](https://github.com/GiuseppeTT/cookiecutter-R-project/actions)
-<!-- badges: end -->
-
+# My Cool Project
+## Description
 The goal of MyCoolProject is to ...
 
-## Installation
+## How to setup...
+### In RStudio
+TEXT.
 
-You can install the released version of MyCoolProject from [CRAN](https://CRAN.R-project.org) with:
+### In VSCode
+TEXT.
 
-``` r
-install.packages("MyCoolProject")
-```
+### In command line
+TEXT.
 
-## Example
+## How to run...
+### In RStudio
+TEXT.
 
-This is a basic example which shows you how to solve a common problem:
+### In VSCode
+TEXT.
 
-``` r
-library(MyCoolProject)
-## basic example code
-```
+### In Command line
+TEXT.
+
+## (For developers) CI/CD
+TEXT.
+
+## (For developers) Project structure
+The `_targets.R` script is the main entrypoint.
+
+Most important files:
+- TEXT
+
+Full project structure:
+- TEXT
+
+## (For developers) Template
+This project was built with the [GiuseppeTT/cookiecutter-R-project](https://github.com/GiuseppeTT/cookiecutter-R-project) template.
