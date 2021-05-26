@@ -25,6 +25,9 @@ TEXT.
 ## (For developers) CI/CD
 TEXT.
 
+## (For developers) Workflow
+TEXT (e.g., {renv})
+
 ## (For developers) Project structure
 The `_targets.R` script is the main entrypoint.
 
