@@ -14,6 +14,7 @@ Imports:
     rlang (>= 0.1.2)
 Suggests:
     devtools,
+    here,
     lintr,
     testthat (>= 3.0.0),
     usethis
