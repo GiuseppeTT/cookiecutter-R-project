@@ -29,7 +29,9 @@ TEXT.
 The `_targets.R` script is the main entrypoint.
 
 Most important files:
-- TEXT
+- `README.md`: TEXT
+- `_targets.R`: TEXT
+- `R/target-factory.R`: TEXT
 
 Full project structure:
 - TEXT
