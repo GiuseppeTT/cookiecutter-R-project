@@ -4,5 +4,6 @@
 ^data$
 ^extra$
 ^LICENSE\.md$
+^makefile$
 ^MyCoolProject\.Rproj$
 ^output$
