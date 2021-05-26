@@ -2,4 +2,6 @@
 .httr-oauth
 .Rdata
 .Rhistory
-.Rproj.user
+.Rproj.user/
+man/
+NAMESPACE
