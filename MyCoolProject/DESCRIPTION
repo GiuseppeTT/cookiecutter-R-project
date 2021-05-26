@@ -10,7 +10,7 @@ Authors@R:
 Description: What the package does (one paragraph).
 License: MIT + file LICENSE
 Suggests:
-    roxygen2,
+    devtools,
     testthat (>= 3.0.0)
 Encoding: UTF-8
 LazyData: true
