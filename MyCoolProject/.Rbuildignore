@@ -1,5 +1,8 @@
 ^\.github$
 ^\.lintr$
 ^\.Rproj\.user$
+^data$
+^extra$
 ^LICENSE\.md$
 ^MyCoolProject\.Rproj$
+^output$
