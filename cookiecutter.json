@@ -4,12 +4,5 @@
     "project_package_name" : "cookiecutter.project_name.replace(' ', '')",
     "project_short_description" : "A project about some stuff",
     "author_name" : "John Johnson",
-    "author_email" : "{{ cookiecutter.author_name.lower().replace(' ', '_') }}@example.com",
-    "use_makefile" : "y",
-    "use_github_actions" : "y",
-    "use_vscode_remote_container" : "n",
-    "use_lintr" : "y",
-    "use_targets" : "n",
-    "use_testthat" : "n",
-    "use_renv" : "n"
+    "author_email" : "{{ cookiecutter.author_name.lower().replace(' ', '_') }}@example.com"
 }
