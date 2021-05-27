@@ -1,8 +1,10 @@
+_targets/
 .DS_Store
 .httr-oauth
 .Rdata
 .Rhistory
 .Rproj.user/
+
+# Comment these if you plan on turning your project into a package
 man/
 NAMESPACE
-_targets/
