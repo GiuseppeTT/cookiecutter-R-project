@@ -5,6 +5,9 @@ install_dependencies:
 
 .PHONY: clean
 clean:
+	rm -rf man/
+	rm -f NAMESPACE
+	Rscript -e "targets::tar_destroy()"
 	find output/ -not -name ".*" -type f -delete
 
 .PHONY: test
@@ -29,7 +32,7 @@ lint:
 
 .PHONY: run
 run:
-	Rscript render.R
+	Rscript -e 'targets::tar_make()'
 
 .PHONY: all
 all: clean test document check install lint run
